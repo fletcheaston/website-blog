@@ -1,0 +1,1 @@
+import{j as o,n as r}from"./index-CwtsGJj3.js";import{B as t}from"./layout-Cohubq0h.js";import{P as e}from"./pdf-viewer-CgaqNr8D.js";import"./routeInfo-Bh0-5ykf.js";import"./button-D317vur7.js";const f=function(){return o.jsxs(o.Fragment,{children:[o.jsx(t,{to:r.fullPath}),o.jsx(e,{filepath:"/blog/rad-ai/gcp-services-overview.pdf"})]})};export{f as component};
