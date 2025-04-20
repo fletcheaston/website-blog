@@ -1,0 +1,1 @@
+import{j as o,k as t}from"./main-CV-jdQ_C.js";import{B as r}from"./layout-BHv86BKp.js";import{E as e}from"./papers-CtmJDzct.js";import"./pdf-viewer-N3E0LrbL.js";import"./index-D4axe4NC.js";import"./button-DiQvsG2T.js";const x=function(){return o.jsxs(o.Fragment,{children:[o.jsx(r,{to:t.fullPath}),o.jsx(e,{href:"https://esolangs.org/wiki/Onione"})]})};export{x as component};
